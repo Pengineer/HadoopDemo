@@ -1,0 +1,14 @@
+#Fri Jul 24 11:37:54 CST 2015
+eclipse.preferences.version=1
+encoding//src/edu/hust/hdfs/FileSystem/HDFSFileSystem.java=UTF-8
+encoding//src/edu/hust/hdfs/filesUpload/FileDownload.java=UTF-8
+encoding//src/edu/hust/hdfs/filesUpload/FileUpload.java=UTF-8
+encoding//src/edu/hust/hdfs/filesUpload/FilesUploadToOne.java=UTF-8
+encoding//src/edu/hust/hdfs/filesUpload/FilesUploadToOne_adv.java=UTF-8
+encoding//src/edu/hust/hdfs/filesUpload/auxiliary/MyPathFilter.java=UTF-8
+encoding//src/edu/hust/hdfs/url/HDFSFileAPI.java=UTF-8
+encoding//src/edu/hust/mr/telTraffic/MyDataWriter.java=UTF-8
+encoding//src/edu/hust/mr/telTraffic/MyDataWriterAdv.java=UTF-8
+encoding//src/edu/hust/mr/telTraffic/TrafficSumMR.java=UTF-8
+encoding//src/edu/hust/mr/topkey/TopKeyForOne.java=UTF-8
+encoding/<project>=UTF-8

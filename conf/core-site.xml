@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+	<name>fs.default.name</name>
+	<value>hdfs://master:9000</value>
+    </property>
+    <property>
+    	<name>hadoop.tmp.dir</name>
+    	<value>/data/hadoop/hdfs/tmp</value>
+    </property>
+    <property>
+    	<name>fs.checkpoint.dir</name>
+    	<value>/data/hadoop/hdfs/namesecondary</value>
+    </property>
+    <property>
+    	<name>fs.checkpoint.period</name>
+    	<value>1800</value>
+    </property>
+    <property>
+    	<name>fs.checkpoint.size</name>
+    	<value>33554432</value>
+    </property>
+    <property>
+    	<name>io.compression.codecs</name>
+    	<value>org.apache.hadoop.io.compress.DefaultCodec,org.apache.hadoop.io.compress.GzipCodec,org.apache.hadoop.io.compress.BZip2Codec</value>
+    </property>
+    <property>
+    	<name>fs.trash.interval</name>
+    	<value>1440</value>
+    </property>
+</configuration>
